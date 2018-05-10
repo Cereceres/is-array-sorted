@@ -1,4 +1,4 @@
-# is-array-sorted
+# is-array-sorted-acme
 check if a array is sorted
 
 # isSorted(Array) -> Boolean

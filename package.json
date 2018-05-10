@@ -1,0 +1,25 @@
+{
+  "name": "is-array-sorted-acme",
+  "version": "1.0.0",
+  "description": "check if a array is sorted",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/is-array-sorted.git"
+  },
+  "keywords": [
+    "sorted",
+    "array",
+    "check",
+    "numbers"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/is-array-sorted/issues"
+  },
+  "homepage": "https://github.com/Cereceres/is-array-sorted#readme"
+}
